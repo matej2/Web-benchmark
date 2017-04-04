@@ -1,6 +1,6 @@
 # Web-benchmark
 
-Web benchmark is intended for browser benchmark or theme default css settings benchmark.
+Web benchmark is intended for browser benchmark or theme default css benchmark.
 
 ## Use
 ### Windows / Ubuntu
