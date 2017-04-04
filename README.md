@@ -10,8 +10,10 @@ Web benchmark is intended for testing browser, page or theme default css setting
 
 ### Android / other
 1. Open browser
-2. Navigate to browser's file system trought URL (Chrome: file:///_drive_://)
+2. Navigate to browser's file system (Chrome: file://_sdcard_/)
 3. Navigate to file directory
-4. Open to see the effect
 
-Additional info: see Wiki
+### Other
+1. Open browser
+2. Navigate to browser's file system (Chrome: file:///_drive_://)
+3. Navigate to file directory
