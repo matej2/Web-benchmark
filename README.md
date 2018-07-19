@@ -1,3 +1,3 @@
 # Web-benchmark
 
-Web benchmark is a page, meant to display browser or theme default css settings. It shows most of the html elements and their default setup. It uses HTML5.
+Web benchmark page displays browser or theme default css settings. It shows most of the html elements with no inline CSS styles. It uses HTML5.
